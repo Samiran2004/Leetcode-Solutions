@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
