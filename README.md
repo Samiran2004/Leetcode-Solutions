@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
