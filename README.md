@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Divide and Conquer
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
