@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [3945-digit-frequency-score](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [3945-digit-frequency-score](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
