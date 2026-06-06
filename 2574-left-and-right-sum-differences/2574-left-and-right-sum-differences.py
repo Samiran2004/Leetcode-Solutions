@@ -7,6 +7,7 @@ class Solution:
             currSum = leftSum[-1] + nums[i]
             leftSum.append(currSum)
         
+        # Function for calculate right sum
         def getRightSum(nums):
             totalSum = sum(nums)
             rightSum = []
@@ -20,6 +21,7 @@ class Solution:
 
         ans = []
 
+        # Calculate difference
         for i in range(len(nums)):
             currDiff = abs(leftSum[i] - rightSum[i])
             ans.append(currDiff)
