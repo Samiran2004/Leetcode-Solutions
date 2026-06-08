@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3941-password-strength](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3941-password-strength) |
 ## Binary Search
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
