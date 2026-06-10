@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3941-password-strength](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3941-password-strength) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
