@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
