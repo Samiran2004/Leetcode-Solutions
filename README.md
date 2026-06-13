@@ -182,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -202,9 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
