@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
