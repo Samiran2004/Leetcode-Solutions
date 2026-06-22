@@ -286,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
