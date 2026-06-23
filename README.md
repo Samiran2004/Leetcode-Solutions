@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
