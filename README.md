@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3941-password-strength](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -314,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
