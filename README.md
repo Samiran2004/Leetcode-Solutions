@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
