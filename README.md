@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [3945-digit-frequency-score](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
