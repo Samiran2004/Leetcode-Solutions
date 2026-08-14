@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0796-rotate-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
