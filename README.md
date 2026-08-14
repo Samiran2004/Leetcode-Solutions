@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0929-unique-email-addresses](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
