@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
