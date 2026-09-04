@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-sex-of-employees](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 ## Segment Tree
 |  |
 | ------- |
