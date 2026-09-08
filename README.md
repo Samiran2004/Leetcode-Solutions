@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
