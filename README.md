@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
