@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [3945-digit-frequency-score](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
