@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Samiran2004/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Segment Tree
 |  |
 | ------- |
